@@ -1,0 +1,1 @@
+# LagerverwaltungModern (WinForms)
